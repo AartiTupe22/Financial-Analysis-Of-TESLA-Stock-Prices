@@ -12,3 +12,5 @@ The crux of our methodology lies in the construction of a robust model primed fo
 Venturing into the realm of Prediction and Visualization, we harnessed the potency of our meticulously crafted model to extrapolate stock prices for future dates, meticulously accounting for business days. Subsequently, the obtained results were subjected to an inverse transformation, restoring them to the original data scale, facilitating a seamless comparison against actual stock prices. The resultant visualizations serve as a testament to the efficacy of our model, offering stakeholders a tangible glimpse into the future trajectory of Tesla's stock prices.
 
 In summation, through this project, we've underscored the formidable prowess of LSTM networks in the realm of financial time series prediction. Our innovative approach not only furnishes investors and financial analysts with a reliable tool for comprehending Tesla's future performance but also empowers them to make well-informed decisions, thereby navigating the intricate landscape of financial markets with confidence and acumen.
+
+**NOTE : Dataset used for this project is avaliable on kaggle.com*_
